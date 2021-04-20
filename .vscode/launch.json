@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/68b5f1df-5e58-4c8c-94c4-8b357b9edf98/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/pokrlrazjPROG209Host",
+    "appService.deploySubpath": "."
+}
